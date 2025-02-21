@@ -1,4 +1,4 @@
-Koden är väl struktuerad med hjälp av Blackformatter Extensions
+Koden är väl struktuerad med hjälp av Blackformatter Extensions :
 Alt + Shift + F
 
 Dessa är länkarna från det jag lärt mig och använt för att koda DNA DATA Processing.
